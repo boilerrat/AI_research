@@ -1,6 +1,3 @@
-Here's a basic README.md for your web crawler repository:
-
-```markdown
 # Crawl4AI Scripts
 
 A collection of scripts using Crawl4AI to extract and process web content for AI training purposes.
@@ -59,6 +56,4 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 [Choose your license]
-```
 
-Would you like me to expand on any section or add more specific details about the project?
